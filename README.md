@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding and filmmaking.
 - 🌱 I’m currently learning python and C.
 - 💞️ I’m looking forward to collaborate on cool projects.
-- 📫 How to reach me: toby.koenig1@gmail.com
 
 <!---
 atoby/atoby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
