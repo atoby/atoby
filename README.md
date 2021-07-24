@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @atoby
 - 👀 I’m interested in coding and filmmaking.
 - 🌱 I’m currently learning python and C.
-- 💞️ I’m looking forward to collaborate on cool projects.
 
 <!---
 atoby/atoby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
